@@ -1,0 +1,14 @@
+This is the VH1 benchmark. 
+
+Quick Build Instructions
+cd src/; make
+
+Quick Run Instructions
+cd run; sbatch ./run.sbatch
+
+Binaries should be placed in ./bin
+
+For reveal:
+pat_report vhone...+pat.xf > loops_report.txt
+
+reveal vhone...+pat.ap2 ../src/vhone.pl &
