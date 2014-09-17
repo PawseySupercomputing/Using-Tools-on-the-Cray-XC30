@@ -1,0 +1,9 @@
+This is an introductory course for Allinea MAP. The sessions are designed to be hands-on, led from the front of the room, with exercises for free study.
+
+The slide decks are suitable for incorporation into the rest of your deck for the day - it should be easy to mix this into a DDT training course, for example.
+
+The sessions can be run independently, but if run together should be done in the order 1, 2 as there's a nice continuity in the story.
+
+I recommend providing the attendees with an install of the problem/ directories but not the solution/ directories, to reduce the temptation to peek during the rest of the course. I also recommend making the directories available one at a time, or starting each session by telling attendees how to copy the directories from your directory to their own work space - this way you can also share the solutions in the same way by making them readable at the end and having a short hands-on review before moving to the review slide for each session.
+
+There are lots of things not covered in this course - the PSV, the project files, I/O, scalability. These will be added in the future, but would form an intermediate course. A future advanced course will look at integration with source control, automated regression testing and extrating data from MAP's XML output files for automated comparison and report generation.
